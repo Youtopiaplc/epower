@@ -1,0 +1,13 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://epower.youtopia.et/sitemap.xml
+
+# Disable crawling of asset folders
+Disallow: /assets/
+Disallow: /attached_assets/
+
+# Crawl delay (be respectful)
+Crawl-delay: 10
