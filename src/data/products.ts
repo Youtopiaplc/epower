@@ -74,7 +74,7 @@ export const products: Product[] = [
     id: 4,
     name: "10 Trays Electric Convection Oven With Steam Function",
     category: "Bakery & Food Processing",
-    images: ["/attached_assets/10_Trays_Electric_Convection_Oven_With_Steam_Function_1779125689008.png"],
+    images: ["/attached_assets/10_Trays_Electric_Convection_Oven_With_Steam_Function_1779125689006.png"],
     description: "10 Trays Electric Convection Oven With Steam Function features tray sizes of 400x600mm or 460x720mm and controls temperatures from 0 to 350°C. Equipped with a steam function, 110mm distance between trays, and built with SS#201 stainless steel. The electrical control system utilizes high-quality components from Schneider and Omron, reaching 200°C in just 10–12 minutes.",
     specifications: {
       "Capacity": "10 Trays (400x600mm or 460x720mm)",
