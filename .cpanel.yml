@@ -1,0 +1,5 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/epowervr/public_html/
+    - /bin/rm -rf $DEPLOYPATH/assets
+    - /bin/cp -R dist/* $DEPLOYPATH
